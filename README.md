@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋, I'm Karthik RP & I am a full stack web developer from Bengaluru, India.
+
+
+#### Git in touch? 📫
+
+📩 [Mail](mailto://blendedidea@gmail.com)
+
+🖥 [Website](https://blendedideas.in)
+
 
 <!--
 **blended-ideas/blended-ideas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
