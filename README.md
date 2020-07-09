@@ -3,7 +3,7 @@
 
 #### Git in touch? 📫
 
-📩 [Mail](mailto://blendedidea@gmail.com)
+📩 [Mail](mailto:blendedidea@gmail.com)
 
 🖥 [Website](https://blendedideas.in)
 
