@@ -1,1 +1,1 @@
-![What am I doing?](name-of-gif-file.gif)
+![What am I doing?](coding.gif)
